@@ -14,8 +14,26 @@
   }
 }
 
+@font-face {
+  font-family: 'Bagien';
+  src: url('/Bagien-demo-BF66aa5d0b5f8c0.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif; 
+}
+
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  /* font-family: Arial, Helvetica, sans-serif; */
+}
+@font-face {
+  font-family: 'Bagien Demo';
+  src: url('/fonts/BagienDemo.woff2') format('woff2'),
+       url('/fonts/BagienDemo.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
 }

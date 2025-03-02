@@ -10,6 +10,10 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        "cs-red":"rgba(243, 31, 69, 1)"
+      },
+      fontFamily: {
+        custom: ['Bagien Demo', 'sans-serif'],
       },
     },
   },
