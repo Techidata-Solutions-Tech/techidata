@@ -2,7 +2,7 @@ const TrustStatement = () => {
   return (
     <div className="flex flex-col items-center text-center  max-w-7xl mx-auto px-6 py-12">
   
-      <button className="bg-red-500 text-white text-xs md:text-sm font-semibold px-4 py-1.5 rounded-full">
+      <button className="bg-cs-red text-white text-xs md:text-sm font-semibold px-4 py-1.5 rounded-full">
         How can we help?
       </button>
 

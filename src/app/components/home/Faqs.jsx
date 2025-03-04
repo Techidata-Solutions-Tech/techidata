@@ -32,7 +32,7 @@ export default function Faqs() {
     <section className="max-w-4xl mx-auto py-16 px-6">
       
       <div className="text-center">
-        <span className="bg-red-500 text-white px-4 py-1 rounded-full text-sm font-semibold">FAQs</span>
+        <span className="bg-cs-red text-white px-4 py-1 rounded-full text-sm font-semibold">FAQs</span>
         <h2 className="text-3xl font-bold text-gray-900 mt-4">Frequently Asked Questions</h2>
         <p className="text-gray-500 mt-2 max-w-xl mx-auto">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

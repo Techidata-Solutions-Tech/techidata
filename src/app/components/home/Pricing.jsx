@@ -80,7 +80,7 @@ export default function Pricing() {
           }`}
         >
           <div className="text-center">
-            <span className="text-white bg-red-500 px-4 py-1 rounded-full text-sm font-semibold">
+            <span className="text-white bg-cs-red px-4 py-1 rounded-full text-sm font-semibold">
               Pricing
             </span>
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mt-4">
@@ -121,7 +121,7 @@ export default function Pricing() {
                 className="bg-white rounded-xl shadow-md p-6 border border-gray-200 relative"
               >
                 {plan.badge && (
-                  <span className="absolute top-4 right-4 bg-red-500 text-white text-xs font-bold px-3 py-1 rounded-full">
+                  <span className="absolute top-4 right-4 bg-cs-red text-white text-xs font-bold px-3 py-1 rounded-full">
                     {plan.badge}
                   </span>
                 )}

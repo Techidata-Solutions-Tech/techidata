@@ -82,7 +82,7 @@ export default function TestimonialCarousel() {
         >
           <div className="px-5 max-w-7xl mx-auto">
             <div className="max-w-5xl mx-auto px-6 text-center">
-              <span className="bg-red-500 text-white px-4 py-1 rounded-full text-sm font-semibold">
+              <span className="bg-cs-red text-white px-4 py-1 rounded-full text-sm font-semibold">
                 Testimonials
               </span>
               <h2 className="text-3xl font-bold text-gray-900 mt-4">

@@ -12,7 +12,7 @@
 //         <div className="absolute inset-0 h-full">
 //           <Spline scene="https://prod.spline.design/22xIHQ26oXn1YQJ5/scene.splinecode" />
 //         </div>
-//         <div className="bg-red-500 text-white text-sm font-semibold px-4 py-1 rounded-full relative z-10">
+//         <div className="bg-cs-red text-white text-sm font-semibold px-4 py-1 rounded-full relative z-10">
 //           CRM of the Future
 //         </div>
 
@@ -71,7 +71,7 @@ const EdTechHero = () => {
         <div className="absolute inset-0 h-full">
           {/* <Spline scene="https://prod.spline.design/22xIHQ26oXn1YQJ5/scene.splinecode" /> */}
         </div>
-        <div className="bg-red-500 text-white text-sm font-semibold px-4 py-1 rounded-full relative z-10">
+        <div className="bg-cs-red text-white text-sm font-semibold px-4 py-1 rounded-full relative z-10">
           CRM of the Future
         </div>
 
